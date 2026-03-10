@@ -32,19 +32,3 @@ analise-perfil-credito/
 4. Visualização de padrões
 5. Interpretação dos resultados
 
-## Como Executar o Projeto
-1. Clone o repositório
-2. Instale as dependências necessárias
-3. Execute os notebooks ou scripts de análise
-
-Exemplo:
-
-pip install pandas numpy matplotlib seaborn
-
-## Possíveis Melhorias
-- Aplicação de modelos de Machine Learning para previsão de risco
-- Criação de dashboard para visualização dos resultados
-- Integração com APIs de dados financeiros
-
-## Autor
-Projeto desenvolvido para fins de estudo em Ciência de Dados.
